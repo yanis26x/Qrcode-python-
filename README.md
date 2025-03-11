@@ -1,3 +1,5 @@
 # Qrcode-python-
 generateur de code QR en python
-ouuuuu yeaaa
+1. pip3 install qrcode[pil]
+ou
+pip3 install qrcode et pip install pillow
