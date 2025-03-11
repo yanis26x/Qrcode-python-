@@ -4,7 +4,10 @@ generateur de code QR en python
 ou
 pip3 install qrcode et pip install pillow
 
+## pyperclip
 2. pip install pyperclip
 # sur mac 
 pip install pyperclip --break-system-packages
+
+## tkinter
 
