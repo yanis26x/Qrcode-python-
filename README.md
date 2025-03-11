@@ -1,8 +1,8 @@
 # Qrcode-python-
 generateur de code QR en python
 
-![QR Code](./Screen/screen1.PNG)
-![QR Code](./Screen/screen2.PNG)
+![QR Code](./screen/screen1.png)
+![QR Code](./screen/screen2.png)
 
 
 1. pip3 install qrcode[pil]
