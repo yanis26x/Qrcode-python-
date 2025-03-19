@@ -16,3 +16,4 @@ pip install pyperclip --break-system-packages
 
 ## tkinter
 
+## .exe a venir ! 
