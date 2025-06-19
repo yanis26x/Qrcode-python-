@@ -1,19 +1,30 @@
-# Qrcode-python-
-generateur de code QR en python
+# QR Code Generator
 
-![QR Code](./screen/screen1.png)
-![QR Code](./screen/screen2.png)
+![QR Code](./ScreenShot/QRCODE26x.PNG)
+**User friendly version coming soon !**
 
+A simple program made in java with **zxing** 2 generate a QR code from a custom URL and logo. Quick to set up and easy to use.
 
-1. pip3 install qrcode[pil]
-ou
-pip3 install qrcode et pip install pillow
+## Usage
 
-## pyperclip
-2. pip install pyperclip
-# sur mac 
-pip install pyperclip --break-system-packages
+- Open the `RUN_THIS.java` file located in:
+  ```
+  src/main/java/yanis26x
+  ```
+- Replace the URL in the code with your desired link.**line 76**
+- Customize the QR code color (black & white is recommended).**line 25**
+- Change the logo by replacing `sonic_logo.png` with your own image:**line 78**
+  ```
+  data/your_logo_here.png
+  ```
+  (PNG format is recommended)
+- Run the `RUN_THIS.java` file.
+- After execution, the generated QR code image will be saved in:
+  ```
+  data/QRCODE26x.PNG
+  ```
 
-## tkinter
+And that's it! Your QR code is ready to use.
+#
+**your 2 slow**
 
-## .exe a venir ! 
