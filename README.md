@@ -1,5 +1,6 @@
 # Qrcode-python-
 generateur de code QR en python
+## version java sur la branche "vJAVA" !
 
 ![QR Code](./screen/screen1.png)
 ![QR Code](./screen/screen2.png)
